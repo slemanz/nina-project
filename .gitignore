@@ -3,3 +3,24 @@
 *.elf
 *.o
 *__pycache__*
+
+# KICAD FILES
+# Temporary Files
+*.OOO
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*.kicad_prl
+*.sch-bak
+fp-info-cache
+*auto_saved*
+*autosave*
+
+# Netlist files
+*.net
+
+# Exported BOM files
+*.xml
+*.csv
