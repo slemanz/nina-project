@@ -17,6 +17,7 @@
 fp-info-cache
 *auto_saved*
 *autosave*
+*.lck
 
 # Netlist files
 *.net

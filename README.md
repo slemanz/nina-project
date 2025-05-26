@@ -1,3 +1,4 @@
 # NINA Project
 
-- [FIRWMWARE](FW/)
+- [FIRMWARE](FW/)
+- [HARDWARE](HW/)
