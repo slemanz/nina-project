@@ -5,6 +5,8 @@
 The NINA Project was developed to create a data acquisition device. This project is structured into two main directories: **hardware** and **firmware**.
 Each section contains essential components for building and programming the device.
 
+![image](HW/Schematic/top.png)
+
 ### Directories
 
 - **[HARDWARE](HW/)**: Contains the hardware specifications and schematics.
