@@ -13,3 +13,9 @@ Each section contains essential components for building and programming the devi
 - **[FIRMWARE](FW/)**: Contains the low-level driver implementations and application structure.
 
 For further details, please refer to the specific READMEs in their respective directories.
+
+## Versions
+
+**v1.0** - First stable version. This release was officially utilized as the
+technical foundation for the repository owner's Undergraduate Graduation Thesis
+(TCC).
